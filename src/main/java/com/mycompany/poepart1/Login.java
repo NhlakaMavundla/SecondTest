@@ -21,7 +21,7 @@ class Login {
         }
         
         
-    }
+    }//Ending method
     
     //Method to check the password complexity
     public boolean checkPasswordComplexity(String password){
